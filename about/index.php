@@ -73,7 +73,7 @@
 		<nav class="navbar navbar-expand-lg g-py-0 u-navbar-color-primary--hover">
 			<div class="container">
 				<!-- Logo -->
-				<a href="..\index.html" class="landing-block-node-menu-logo-link navbar-brand u-header__logo p-0" target="_self">
+				<a href="..\index.php" class="landing-block-node-menu-logo-link navbar-brand u-header__logo p-0" target="_self">
 					<img class="landing-block-node-menu-logo u-header__logo-img u-header__logo-img--main d-block g-max-width-180" src="https://cdn.bitrix24.com/b8467327/landing/ec3/ec3809089c4442c0e456d7b8e000ea14/Taf-logo.png" alt="Transforming Africa Foundation" data-header-fix-moment-exclude="d-block" data-header-fix-moment-classes="d-none" data-fileid="80" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
 
 					<img class="landing-block-node-menu-logo2 u-header__logo-img u-header__logo-img--main d-none g-max-width-180" src="https://cdn.bitrix24.com/b8467327/landing/8ce/8ce5914b2e8dd2d59e272b85fcbf219f/Taf-logo.png" alt="Transforming Africa Foundation" data-header-fix-moment-exclude="d-none" data-header-fix-moment-classes="d-block" data-fileid="82" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
@@ -83,19 +83,19 @@
 				<!-- Navigation -->
 				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar94">
 					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-font-weight-700 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
-							<a href="..\index.html#block88" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">HOME</a><span class="sr-only">(current)</span>
+							<a href="..\index.php#block88" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">HOME</a><span class="sr-only">(current)</span>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="index.html#block188" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">ABOUT US</a>
+							<a href="index.php#block188" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">ABOUT US</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\projects\index.html#block272" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR PROJECTS</a>
+							<a href="..\projects\index.php#block272" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR PROJECTS</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\index.html#block56" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">SUCCESS STORIES</a>
+							<a href="..\index.php#block56" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">SUCCESS STORIES</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\index.html#block66" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">NEWS &amp; EVENTS</a>
+							<a href="..\index.php#block66" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">NEWS &amp; EVENTS</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\index.html#block60" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR TEAM</a>
+							<a href="..\index.php#block60" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR TEAM</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
-							<a href="index.html#block300" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">CONTACT US</a><span class="sr-only">(current)</span>
+							<a href="index.php#block300" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">CONTACT US</a><span class="sr-only">(current)</span>
 						</li></ul>
 				</div>
 				<!-- End Navigation -->

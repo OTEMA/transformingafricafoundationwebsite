@@ -605,7 +605,8 @@
                     </div>
                 </section></div>
         </main>
-        <div class="bitrix-footer"><div class="landing-block-node-text mr-1 g-color-white js-animation animation-none">
+        <div class="bitrix-footer">
+            <div class="landing-block-node-text mr-1 g-color-white js-animation animation-none">
                 &copy; 2018 All rights reserved.</div>
             <span class="bitrix-footer-text">Powered by</span><a href="https://otemainc.com">
                 <img class="bitrix-footer-logo" style="width:25px;height:25px" src="logo.png" alt="OTEMA"></a>

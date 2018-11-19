@@ -82,19 +82,19 @@
 				<!-- Navigation -->
 				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar190">
 					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-font-weight-700 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
-							<a href="..\index.html#block88" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">HOME</a><span class="sr-only">(current)</span>
+							<a href="..\index.php#block88" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">HOME</a><span class="sr-only">(current)</span>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\about\index.html#block188" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">About</a>
+							<a href="..\about\index.php#block188" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">About</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="index.html#block272" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR PROJECTS</a>
+							<a href="index.php#block272" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR PROJECTS</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\index.html#block56" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">SUCCESS STORIES</a>
+							<a href="..\index.php#block56" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">SUCCESS STORIES</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\index.html#block66" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">NEWS &amp; EVENTS</a>
+							<a href="..\index.php#block66" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">NEWS &amp; EVENTS</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="..\index.html#block60" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR TEAM</a>
+							<a href="..\index.php#block60" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR TEAM</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
-							<a href="index.html#block304" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">CONTACT US</a><span class="sr-only">(current)</span>
+							<a href="index.php#block304" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">CONTACT US</a><span class="sr-only">(current)</span>
 						</li></ul>
 				</div>
 				<!-- End Navigation -->

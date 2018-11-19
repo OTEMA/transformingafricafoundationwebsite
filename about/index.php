@@ -170,7 +170,9 @@
 
 						<div class="landing-block-card-accordeon-element-body">
 							<div class="card-block u-accordion__body g-py-20 px-0 g-color-gray-dark-v5">
-								<div class="landing-block-node-accordeon-element-text g-font-size-default"><p class="mb-0">We are a Kenyan None Governmental Organization that was founded in the year 2015 as a youth organization with a mandate to contribute towards promoting better access to Health, quality Education, welfare and poverty reduction. TAF has since grown to a fully-fledged NGO registered in Kenya as from January of 2018 to enable us extend our noble interventions to the most needful communities in Kenya.  </p><p class="mb-0">We value humanity, we believe that human beings deserve nothing but the best out of their lives and a dignity for life hence we cannot afford to sit back and do nothing but be involved in championing avenues that will help the most disadvantaged persons and communities live better lives, we work to help put a smile to a face one at a time because together we simply can overcome all challenges that come our way as we restore hope to the hopeless and save precious lives. </p></div>
+								<div class="landing-block-node-accordeon-element-text g-font-size-default"><p class="mb-0">We are a Kenyan None Governmental Organization that was founded in the year 2015 as a youth organization with a mandate to contribute towards promoting better access to Health, quality Education, welfare and poverty reduction. TAF has since grown to a fully-fledged NGO registered in Kenya as from January of 2018 to enable us extend our noble interventions to the most needful communities in Kenya.  
+</p><p class="mb-0">We value humanity, we believe that human beings deserve nothing but the best out of their lives and a dignity for life hence we cannot afford to sit back and do nothing but be involved in championing avenues that will help the most disadvantaged persons and communities live better lives, we work to help put a smile to a face one at a time because together we simply can overcome all challenges that come our way as we restore hope to the hopeless and save precious lives. 
+</p></div>
 							</div>
 						</div>
 					</div>
@@ -187,7 +189,12 @@
 
 						<div class="landing-block-card-accordeon-element-body">
 							<div class="card-block u-accordion__body g-py-20 px-0 g-color-gray-dark-v5">
-								<div class="landing-block-node-accordeon-element-text g-font-size-default"><p class="mb-0">Transforming Africa Foundation (TAF) was founded in the year 2015 as a youth organization having responded to the plight of the orphaned and vulnerable children who were continuing to struggle through life and the widows who had been forgotten by the society.</p><p class="mb-0"> </p><p class="mb-0">With the continued increase in the number of persons either affected in infected by HIV and Aids, the continued stint of hopelessness originating from the intergenerational cycle of poverty, the organization sort to seek for approval from the NGO coordination board to be registered as a nongovernmental organization to champions the plight of the affected persons and communities. Today we continue to grow restoring one life after the other and saving many lives. We currently have a presence in the counties of Kakamega, Vihiga, Kisumu and beyond.  </p><p class="mb-0"></p><p class="mb-0">Our history which continues to grow day by day indeed stimulates in us the passion to push forward as we witness lives being transformed and the mission of the organization slowly but steadily becoming a reality. </p></div>
+								<div class="landing-block-node-accordeon-element-text g-font-size-default"><p class="mb-0">Transforming Africa Foundation (TAF) was founded in the year 2015 as a youth organization having responded to the plight of the orphaned and vulnerable children who were continuing to struggle through life and the widows who had been forgotten by the society.
+</p><p class="mb-0"> 
+</p><p class="mb-0">With the continued increase in the number of persons either affected in infected by HIV and Aids, the continued stint of hopelessness originating from the intergenerational cycle of poverty, the organization sort to seek for approval from the NGO coordination board to be registered as a nongovernmental organization to champions the plight of the affected persons and communities. Today we continue to grow restoring one life after the other and saving many lives. We currently have a presence in the counties of Kakamega, Vihiga, Kisumu and beyond.  
+</p><p class="mb-0">
+</p><p class="mb-0">Our history which continues to grow day by day indeed stimulates in us the passion to push forward as we witness lives being transformed and the mission of the organization slowly but steadily becoming a reality. 
+</p></div>
 							</div>
 						</div>
 					</div>
@@ -206,7 +213,31 @@
 
 						<div class="landing-block-card-accordeon-element-body">
 							<div class="card-block u-accordion__body g-py-20 px-0 g-color-gray-dark-v5">
-								<div class="landing-block-node-accordeon-element-text g-font-size-default"><p class="mb-0">At all times we will ensure: </p><p class="mb-0"></p><p class="mb-0">•	Integrity, </p><p class="mb-0"></p><p class="mb-0">•	Quality, </p><p class="mb-0"></p><p class="mb-0">•	Stewardship,</p><p class="mb-0"></p><p class="mb-0">•	innovation, </p><p class="mb-0"></p><p class="mb-0">•	Collaboration and teamwork </p><p class="mb-0"></p><p class="mb-0"></p><p class="mb-0"></p><p class="mb-0"><span style="font-weight: bold;">Quality:</span> As TAF we aspire to deliver Pre-eminence service with high level of professionalism to the communities we serve. </p><p class="mb-0"></p><p class="mb-0"><span style="font-weight: bold;">Integrity:</span> We will be Honest, Truthful and Accurate in our actions at all times. </p><p class="mb-0"></p><p class="mb-0"><span style="font-weight: bold;">Stewardship:</span> We are faithful to the purpose for which resources are given, we spend prudently all the resources invested in us exercising maximum Efficiency, Accountability and Openness at all levels being ready at all times to give account of every resource. </p><p class="mb-0"></p><p class="mb-0"><span style="font-weight: bold;">Innovation:</span> We constantly challenge ourselves to the highest levels of learning and performance to achieve greater and sustainable impact.</p><p class="mb-0"></p><p class="mb-0"><span style="font-weight: bold;">Collaboration and Teamwork:</span> We work together effectively through teamwork and affirm the potential, dignity and contribution of all stakeholders to serving the larger communities</p><p class="mb-0"></p><p class="mb-0"><br></p></div>
+								<div class="landing-block-node-accordeon-element-text g-font-size-default"><p class="mb-0">At all times we will ensure: 
+</p><p class="mb-0">
+</p><p class="mb-0">•	Integrity, 
+</p><p class="mb-0">
+</p><p class="mb-0">•	Quality, 
+</p><p class="mb-0">
+</p><p class="mb-0">•	Stewardship,
+</p><p class="mb-0">
+</p><p class="mb-0">•	innovation, 
+</p><p class="mb-0">
+</p><p class="mb-0">•	Collaboration and teamwork 
+</p><p class="mb-0">
+</p><p class="mb-0">
+</p><p class="mb-0">
+</p><p class="mb-0"><span style="font-weight: bold;">Quality:</span> As TAF we aspire to deliver Pre-eminence service with high level of professionalism to the communities we serve. 
+</p><p class="mb-0">
+</p><p class="mb-0"><span style="font-weight: bold;">Integrity:</span> We will be Honest, Truthful and Accurate in our actions at all times. 
+</p><p class="mb-0">
+</p><p class="mb-0"><span style="font-weight: bold;">Stewardship:</span> We are faithful to the purpose for which resources are given, we spend prudently all the resources invested in us exercising maximum Efficiency, Accountability and Openness at all levels being ready at all times to give account of every resource. 
+</p><p class="mb-0">
+</p><p class="mb-0"><span style="font-weight: bold;">Innovation:</span> We constantly challenge ourselves to the highest levels of learning and performance to achieve greater and sustainable impact.
+</p><p class="mb-0">
+</p><p class="mb-0"><span style="font-weight: bold;">Collaboration and Teamwork:</span> We work together effectively through teamwork and affirm the potential, dignity and contribution of all stakeholders to serving the larger communities
+</p><p class="mb-0">
+</p><p class="mb-0"><br></p></div>
 							</div>
 						</div>
 					</div>
@@ -220,7 +251,10 @@
         <div class="container g-max-width-800">
             <div class="text-center">
                 <h2 class="landing-block-node-title g-font-weight-400">OUR STAFF &amp; VOLUNTEERS</h2>
-                <div class="landing-block-node-text g-font-size-16 g-pb-1"><p style="text-align: justify;">TAF has youthful and talented workforces who bring on board a lot of passion in their work, we are also privileged to be receiving a set of like-minded volunteers from both within the country and across the globe teaming up with us to ensure what we put out to the communities we serve is well seasoned. We value those who dedicate their lives to serving the vision that we have and as a result we constantly look towards making their work environment and experience at TAF one of the best. </p><p style="text-align: justify;">Over time we have seen a great increase in the number of persons wanting to join our team, at TAF we ensure persons are not only able to deliver on their mandate but also grow in various ways as they work with us with a clear carrier development and support plan in line with our HR policy manual. </p><p style="text-align: justify;">We work to better our employee satisfaction and as an effect we continue to get greater desired impact in our areas of implementation. </p><p style="text-align: justify;"><br></p></div>
+                <div class="landing-block-node-text g-font-size-16 g-pb-1"><p style="text-align: justify;">TAF has youthful and talented workforces who bring on board a lot of passion in their work, we are also privileged to be receiving a set of like-minded volunteers from both within the country and across the globe teaming up with us to ensure what we put out to the communities we serve is well seasoned. We value those who dedicate their lives to serving the vision that we have and as a result we constantly look towards making their work environment and experience at TAF one of the best. 
+</p><p style="text-align: justify;">Over time we have seen a great increase in the number of persons wanting to join our team, at TAF we ensure persons are not only able to deliver on their mandate but also grow in various ways as they work with us with a clear carrier development and support plan in line with our HR policy manual. 
+</p><p style="text-align: justify;">We work to better our employee satisfaction and as an effect we continue to get greater desired impact in our areas of implementation. 
+</p><p style="text-align: justify;"><br></p></div>
             </div>
         </div>
 

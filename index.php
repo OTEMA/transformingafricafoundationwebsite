@@ -84,19 +84,19 @@
 				<!-- Navigation -->
 				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar2">
 					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-font-weight-700 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
-							<a href="index.html#40" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">HOME</a><span class="sr-only">(current)</span>
+							<a href="index.#40" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">HOME</a><span class="sr-only">(current)</span>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="about\index.html#block188" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">About</a>
+							<a href="about\index.php#block188" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">About</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="projects\index.html#block272" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR PROJECTS</a>
+							<a href="projects\index.php#block272" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR PROJECTS</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="index.html#block56" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">SUCCESS STORIES</a>
+							<a href="index.php#block56" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">SUCCESS STORIES</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="index.html#block58" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR TEAM</a>
+							<a href="index.php#block58" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">OUR TEAM</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-							<a href="index.html#block64" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">NEWS &amp; EVENTS</a>
+							<a href="index.php#block64" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">NEWS &amp; EVENTS</a>
 						</li><li class="landing-block-node-menu-list-item nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
-							<a href="index.html#block308" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">CONTACT US</a><span class="sr-only">(current)</span>
+							<a href="index.php#block308" class="landing-block-node-menu-list-item-link nav-link p-0" target="_self">CONTACT US</a><span class="sr-only">(current)</span>
 						</li></ul>
 				</div>
 				<!-- End Navigation -->
@@ -129,7 +129,7 @@
 					<h3 class="landing-block-node-card-subtitle h6 g-font-size-32 g-color-white g-mb-10 g-mb-25--md">Our Vision</h3>
 					<h2 class="landing-block-node-card-title text-uppercase g-line-height-1_2 g-font-weight-700 g-font-size-20 g-font-size-46 g-color-white mb-0 g-mb-35--md g-text-break-word">We envision Healthy, Educated and Empowered Communities in Africa.</h2>
 					<div class="landing-block-node-card-button-container">
-						<a class="landing-block-node-card-button btn g-mt-20 g-mt-0--md text-uppercase u-btn-primary g-font-weight-700 g-font-size-10 g-font-size-14--md g-py-7 g-px-10 g-py-15--md g-px-40--md" href="about\index.html#block176" target="_self">Learn more</a>
+						<a class="landing-block-node-card-button btn g-mt-20 g-mt-0--md text-uppercase u-btn-primary g-font-weight-700 g-font-size-10 g-font-size-14--md g-py-7 g-px-10 g-py-15--md g-px-40--md" href="about\index.php#block176" target="_self">Learn more</a>
 					</div>
 				</div>
 			</div>
@@ -141,7 +141,7 @@
 					<h3 class="landing-block-node-card-subtitle h6 g-font-size-32 g-color-white g-mb-10 g-mb-25--md">Our Mission</h3>
 					<h2 class="landing-block-node-card-title text-uppercase g-line-height-1_2 g-font-weight-700 g-font-size-20 g-font-size-46 g-color-white mb-0 g-mb-35--md g-text-break-word">To create innovative, integrated &amp; sustainable interventions to vulnerable persons &amp; communities </h2>
 					<div class="landing-block-node-card-button-container">
-						<a class="landing-block-node-card-button btn g-mt-20 g-mt-0--md text-uppercase u-btn-primary g-font-weight-700 g-font-size-10 g-font-size-14--md g-py-7 g-px-10 g-py-15--md g-px-40--md" href="about\index.html#block176" target="_self">Learn more</a>
+						<a class="landing-block-node-card-button btn g-mt-20 g-mt-0--md text-uppercase u-btn-primary g-font-weight-700 g-font-size-10 g-font-size-14--md g-py-7 g-px-10 g-py-15--md g-px-40--md" href="about\index.php#block176" target="_self">Learn more</a>
 					</div>
 				</div>
 			</div>
@@ -153,7 +153,7 @@
 					<h3 class="landing-block-node-card-subtitle h6 g-font-size-32 g-color-white g-mb-10 g-mb-25--md">Motto</h3>
 					<h2 class="landing-block-node-card-title text-uppercase g-line-height-1_2 g-font-weight-700 g-font-size-20 g-font-size-46 g-color-white mb-0 g-mb-35--md g-text-break-word">Restoring Hope, Saving Lives</h2>
 					<div class="landing-block-node-card-button-container">
-						<a class="landing-block-node-card-button btn g-mt-20 g-mt-0--md text-uppercase u-btn-primary g-font-weight-700 g-font-size-10 g-font-size-14--md g-py-7 g-px-10 g-py-15--md g-px-40--md" href="about\index.html#block176" target="_self">Learn more</a>
+						<a class="landing-block-node-card-button btn g-mt-20 g-mt-0--md text-uppercase u-btn-primary g-font-weight-700 g-font-size-10 g-font-size-14--md g-py-7 g-px-10 g-py-15--md g-px-40--md" href="about\index.php#block176" target="_self">Learn more</a>
 					</div>
 				</div>
 			</div>
@@ -179,7 +179,7 @@
 						<h3 class="landing-block-node-title text-uppercase g-font-size-20 g-color-white g-mb-25 js-animation flipInX">WHY ARE WE HERE?</h3>
 						<div class="landing-block-node-text g-mb-25 js-animation fadeIn"><p style="text-align: justify;">Transforming Africa Foundation (TAF) is here to restore hope and save lives by creating lasting sustainable solutions to the diverse challenges faced by local communities living in the sub Saharan Africa. We go to the most affected and challenged areas</p></div>
 						<div class="landing-block-node-button-container">
-							<a class="landing-block-node-button btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25 js-animation fadeIn" href="about\index.html#block184" target="_self">READ ON</a>
+							<a class="landing-block-node-button btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25 js-animation fadeIn" href="about\index.php#block184" target="_self">READ ON</a>
 						</div>
 					</div>
 					<!-- End Article Content -->
@@ -203,7 +203,7 @@
 						<h3 class="landing-block-node-title text-uppercase g-font-size-20 g-color-white g-mb-25 js-animation flipInX">wHO ARE WE?</h3>
 						<div class="landing-block-node-text g-mb-25 js-animation fadeIn"><p style="text-align: justify;">We are a Kenyan None Governmental Organization that was founded in the year 2015 as a youth organization with a mandate to contribute towards promoting better access to Health, quality Education, welfare and poverty reduction.   </p></div>
 						<div class="landing-block-node-button-container">
-							<a class="landing-block-node-button btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25 js-animation fadeIn" href="about\index.html#block184" target="_self">READ ON</a>
+							<a class="landing-block-node-button btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25 js-animation fadeIn" href="about\index.php#block184" target="_self">READ ON</a>
 						</div>
 					</div>
 					<!-- End Article Content -->
@@ -246,9 +246,9 @@
 
                             <div class="g-pos-rel g-z-index-1 g-pa-30">
                                 <h3 class="h5 mb-3">
-                                    <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover" href="projects\index.html#block274" target="_self">Health</a>
+                                    <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover" href="projects\index.php#block274" target="_self">Health</a>
                                 </h3>
-                                <a class="landing-block-node-link-more u-link-v5 g-color-text g-color-primary--hover g-font-weight-500" href="projects\index.html#block274" target="_self">READ MORE</a>
+                                <a class="landing-block-node-link-more u-link-v5 g-color-text g-color-primary--hover g-font-weight-500" href="projects\index.php#block274" target="_self">READ MORE</a>
                             </div>
                         </div>
                     </article>
@@ -274,9 +274,9 @@
 
                             <div class="g-pos-rel g-z-index-1 g-pa-30">
                                 <h3 class="h5 mb-3">
-                                    <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover" href="projects\index.html#block280" target="_self">Education</a>
+                                    <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover" href="projects\index.php#block280" target="_self">Education</a>
                                 </h3>
-                                <a class="landing-block-node-link-more u-link-v5 g-color-text g-color-primary--hover g-font-weight-500" href="projects\index.html#block280" target="_self">READ MORE</a>
+                                <a class="landing-block-node-link-more u-link-v5 g-color-text g-color-primary--hover g-font-weight-500" href="projects\index.php#block280" target="_self">READ MORE</a>
                             </div>
                         </div>
                     </article>
@@ -303,9 +303,9 @@
 
 							<div class="g-pos-rel g-z-index-1 g-pa-30">
 								<h3 class="h5 mb-3">
-									<a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover" href="projects\index.html#block282" target="_self">COMMUNITY EMPOWERMENT AND SUSTAINABILITY</a>
+									<a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover" href="projects\index.php#block282" target="_self">COMMUNITY EMPOWERMENT AND SUSTAINABILITY</a>
 								</h3>
-								<a class="landing-block-node-link-more u-link-v5 g-color-text g-color-primary--hover g-font-weight-500" href="projects\index.html#block282" target="_self">READ MORE</a>
+								<a class="landing-block-node-link-more u-link-v5 g-color-text g-color-primary--hover g-font-weight-500" href="projects\index.php#block282" target="_self">READ MORE</a>
 							</div>
 						</div>
 					</article>
